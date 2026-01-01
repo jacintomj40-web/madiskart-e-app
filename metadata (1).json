@@ -1,0 +1,8 @@
+
+{
+  "name": "Madiskart-E: Pinoy Entrepreneur Hub",
+  "description": "An AI-powered business companion for Filipino entrepreneurs. It provides real-time market trends in the Philippines, step-by-step registration guides (DTI/BIR), and a business mentor to help Filipinos build profitable local businesses.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,36 @@
+
+{
+  "name": "Madiskart-E: Pinoy Entrepreneur Hub",
+  "short_name": "Madiskart-E",
+  "description": "AI-powered business companion for Filipino entrepreneurs. Find suppliers, calculate profit, and get expert mentoring.",
+  "id": "com.madiskarte.app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "orientation": "portrait",
+  "scope": "/",
+  "categories": ["business", "finance", "productivity"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/590/590415.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/590/590415.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1556742049-13fd74b3bb47?w=1080",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Market Pulse Dashboard"
+    }
+  ]
+}
